@@ -1,5 +1,6 @@
-Sub-Development branch was copied to Master on June 30th, 2016.
+Fork Notes
 ==============
+Forked from coryjfowler. Adding support for 10MHz crystals like the CAN SPI Click
 
 MCP_CAN Library for Arduino
 ==============
