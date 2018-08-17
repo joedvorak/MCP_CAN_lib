@@ -249,7 +249,7 @@
 /*
  *  Speed 8M
  */
-#define MCP_8MHz_1000kBPS_CFG1 (0x00)  
+#define MCP_8MHz_1000kBPS_CFG1 (0x00)
 #define MCP_8MHz_1000kBPS_CFG2 (0xC0)  /* Enabled SAM bit     */
 #define MCP_8MHz_1000kBPS_CFG3 (0x80)  /* Sample point at 75% */
 
@@ -332,9 +332,9 @@
 #define MCP_10MHz_100kBPS_CFG2 (0xFF)
 #define MCP_10MHz_100kBPS_CFG3 (0x87)
 
-#define MCP_10MHz_83k3BPS_CFG1 (0x02)
-#define MCP_10MHz_83k3BPS_CFG2 (0xEC)
-#define MCP_10MHz_83k3BPS_CFG3 (0x87)
+#define MCP_10MHz_80kBPS_CFG1 (0x02)
+#define MCP_10MHz_80kBPS_CFG2 (0xEC)
+#define MCP_10MHz_80kBPS_CFG3 (0x87)
 
 #define MCP_10MHz_50kBPS_CFG1 (0x03)
 #define MCP_10MHz_50kBPS_CFG2 (0xFF)
